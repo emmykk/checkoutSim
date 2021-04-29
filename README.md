@@ -1,6 +1,6 @@
 # checkoutSim
 This was a project I completed for my Data Structures class.
-The simulator can be run by executing python3 main.py in your console of choice.
+The simulator can be run by executing `python3 main.py` in your console of choice.
 
 Key features:
 
